@@ -17,7 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-#FFA500?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
@@ -34,5 +34,5 @@
   
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/prathamesh-rathi-0b3930205/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a><a href="https://www.instagram.com/prathmesh.rathi/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a> <a href="https://www.facebook.com/prathmesh.rathi.77"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a><a href="https://twitter.com/Pratham12248992"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
+<a href="https://www.linkedin.com/in/prathamesh-rathi-0b3930205/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>&nbsp;<a href="https://www.instagram.com/prathmesh.rathi/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>&nbsp; <a href="https://www.facebook.com/prathmesh.rathi.77"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>&nbsp;<a href="https://twitter.com/Pratham12248992"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
 </p>
