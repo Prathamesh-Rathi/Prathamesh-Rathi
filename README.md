@@ -1,152 +1,230 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Prathamesh+Rathi+%F0%9F%91%8B;AI+%2F+Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+GenAI+%7C+Full-Stack+ML;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=PRATHAMESH%20RATHI&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-rathi-0b3930205/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamesh-rathi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshrathi78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathamesh-Rathi)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;LLM+Fine-Tuning+%7C+RAG+%7C+Agentic+AI;Building+Production-Ready+AI+Systems;FastAPI+%7C+PyTorch+%7C+LangChain;Open+to+Full-Time+AI+Engineering+Roles" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Data%20Science-7C3AED?style=for-the-badge\&logo=academia\&logoColor=white)
+![](https://img.shields.io/badge/CGPA-8.98%2F10-6366F1?style=for-the-badge\&logo=bookstack\&logoColor=white)
+![](https://img.shields.io/badge/Published-Researcher-8B5CF6?style=for-the-badge\&logo=googlescholar\&logoColor=white)
+![](https://img.shields.io/badge/Location-Maharashtra%2C%20India-4F46E5?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+
+<br/><br/>
+
+<a href="https://prathamesh-rathi.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prathamesh-rathi-0b3930205/">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prathameshrathi78@gmail.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prathamesh-Rathi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Prathamesh-Rathi\&label=Profile%20Views\&color=7C3AED\&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/Prathamesh-Rathi?label=Followers\&style=for-the-badge\&color=6366F1)
+
+![](https://img.shields.io/github/stars/Prathamesh-Rathi?affiliations=OWNER\&style=for-the-badge\&label=Stars\&color=8B5CF6)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# About
 
-🎓 &nbsp;B.E. in Artificial Intelligence & Data Science — KKWIEER Nashik · **CGPA 9.0 / 10**  
-💼 &nbsp;Ex-Engineer Trainee at **Cognizant** (IT Infrastructure & Analytics)  
-📊 &nbsp;Ex-Data Analyst Intern at **Quantium Analytics**  
-📄 &nbsp;Published researcher — *Eyes of Authenticity*, **IJIRT, Apr 2024**  
-🚀 &nbsp;Built 5+ production-grade projects spanning **GenAI, RAG, ML pipelines & full-stack**  
-🔍 &nbsp;Currently open to **full-time roles and internships** in AI / ML / Data Science  
-📬 &nbsp;Reach me at [prathameshrathi78@gmail.com](mailto:prathameshrathi78@gmail.com)
+AI/ML Engineer with hands-on experience designing, fine-tuning, and deploying production-grade machine learning and Generative AI systems. My work spans the complete lifecycle of AI product development—from data engineering and model experimentation to API development, evaluation pipelines, deployment automation, and scalable inference infrastructure.
 
----
+I specialize in **Large Language Models, Retrieval-Augmented Generation (RAG), Agentic AI workflows, and production ML engineering**. I have built stateful AI assistants, fine-tuned open-weight transformer models, engineered evaluation frameworks, and developed backend systems capable of serving enterprise AI workloads efficiently.
 
-## 🏆 Highlights
+Beyond model development, I approach problems with a **software engineering and product mindset**, emphasizing maintainability, observability, security, performance optimization, and measurable business impact.
 
-| Metric | Achievement |
-|---|---|
-| 🤖 ML F1-Score | **88%** — XGBoost on 140K row IT incident dataset (Cognizant) |
-| 📊 Data Scale | **1M+ records** analyzed at Quantium Analytics |
-| 📈 Business Impact | **10–15% sales uplift** via uplift modeling & product placement |
-| 🔏 Deep Learning | **92% accuracy** — Siamese NN for signature forgery detection |
-| 📄 OCR Pipeline | **95% accuracy** across 1,000+ Aadhaar / PAN documents |
-| 📉 Ops Impact | **20% reduction** in stock-outs via customer segment insights |
+### Open To
+
+* AI / ML Engineer Roles
+* Generative AI Engineer Positions
+* LLM Engineer Opportunities
+* Applied Machine Learning Engineering Roles
+* Backend Engineering Roles focused on AI Products
+* Open Source Collaboration in the AI Ecosystem
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages
 
-**AI / ML / GenAI**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-E06C00?style=flat&logo=xgboost&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<p align="center">
 
-**Frameworks & APIs**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql&theme=dark"/>
 
-**Data & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-
-**Tools & Infra**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-82B541?style=flat&logo=servicenow&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### Frontend
 
-### 🤖 [Production-Grade RAG Assistant](https://github.com/Prathamesh-Rathi/Production_Grade_RAGAssistant)
-> Flask · Groq LLMs · FAISS · LangChain · Embeddings
+<p align="center">
 
-Production-style RAG chatbot with document chunking, semantic embeddings, cosine similarity thresholding, and safe fallbacks to reduce hallucinations. Features multi-session chat UI with conversation memory and live usage metrics (tokens, retrieved chunks).
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
 
----
-
-### 🍔 FoodBot — AI-Powered Food Delivery App
-> Flask · Groq Llama-3 · RAG · SQLAlchemy · Bootstrap
-
-Full-stack food delivery web app with menu browsing, cart, checkout, and real-time order tracking. AI chatbot handles menu/policy FAQs and live order placement via natural language — wired directly to database read/write operations.
+</p>
 
 ---
 
-### 🔏 [Forgery Detection & Document Classification](https://github.com/Prathamesh-Rathi/Signature_Forgery_and_File_classification)
-> Siamese Networks · OCR · Flask · OpenCV · Tesseract &nbsp;|&nbsp; 📰 Published — IJIRT Apr 2024
+### Backend & Databases
 
-Siamese Neural Network (twin CNN) achieving **92% accuracy** in signature forgery detection. OCR pipeline with adaptive thresholding: **95% accuracy** (93% precision, 96% recall) across 1,000+ Aadhaar/PAN documents.
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql&theme=dark"/>
 
-### 📊 [PMC Data Visualization Platform](https://github.com/Prathamesh-Rathi/PMC_Data_Visualization)
-> Streamlit · Selenium · Plotly · NLP
-
-Civic grievance analytics platform scraping Twitter data via Selenium; NLP-based sentiment classification with a 6-mode interactive dashboard featuring ward-level drill-downs for civic decision-making.
+</p>
 
 ---
 
-### ✍️ LinkedIn Post Generator
-> LangChain · Llama 3.2 · Groq Cloud · Streamlit
+### AI / ML Engineering
 
-GenAI tool that analyzes an influencer's past posts and generates style-matched content using few-shot prompting — with controls for topic, language, and length.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Rathi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Rathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/FAISS-6366F1?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/vLLM-7C3AED?style=for-the-badge"/>
 
-## 📜 Certifications
+<img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-8B5CF6?style=for-the-badge"/>
 
-- 🏅 **Python for Data Science and AI Development** — IBM  
-- 🏅 **AI Engineer Crash Course** — Udemy  
-- 🏅 **PostgreSQL: Basic to Advanced**  
-- 📰 **Publication:** *Eyes of Authenticity — Document Forgery Detection*, IJIRT, Apr 2024  
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### Cloud, DevOps & Tooling
 
-<div align="center">
+<p align="center">
 
-Open to **AI/ML Engineer**, **Data Scientist**, **GenAI Developer**, and **Data Analyst** roles across startups, scale-ups, and MNCs in India.
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode&theme=dark"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-rathi-0b3930205/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamesh-rathi.github.io/Portfolio/)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-<sub>⚡ Built with precision · AI / ML Engineer · Open to Opportunities</sub>
-</div>
+# AI / ML Expertise
+
+| Domain                         | Proficiency  | Details                                                              |
+| ------------------------------ | ------------ | -------------------------------------------------------------------- |
+| Large Language Models          | Advanced     | Fine-tuning, inference optimization, prompt engineering, evaluation  |
+| Retrieval-Augmented Generation | Advanced     | Chunking strategies, embeddings, vector search, retrieval evaluation |
+| Agentic AI Systems             | Advanced     | LangGraph workflows, state management, tool orchestration            |
+| Deep Learning                  | Advanced     | Custom PyTorch training loops, CNNs, transformer architectures       |
+| NLP Engineering                | Advanced     | Tokenization, embeddings, sentiment analysis, text classification    |
+| Model Serving                  | Advanced     | FastAPI deployment, REST APIs, inference optimization                |
+| MLOps                          | Intermediate | Docker, CI/CD, experiment tracking, reproducible pipelines           |
+| Vector Databases               | Advanced     | FAISS integration and semantic retrieval pipelines                   |
+| Model Evaluation               | Advanced     | ROC-AUC, F1-score, benchmark design, automated validation            |
+| Data Engineering               | Intermediate | SQL pipelines, preprocessing, feature engineering                    |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Production RAG Pipeline & State-Driven AI Agent</b></summary>
+
+<br/>
+
+Production-grade Retrieval-Augmented Generation platform designed for enterprise AI workflows with advanced retrieval capabilities and agentic decision-making.
+
+| Category    | Details                                               |
+| ----------- | ----------------------------------------------------- |
+| Stack       | Python, LangChain, LangGraph, FAISS, FastAPI, Docker  |
+| Scale       | Multi-document conversational retrieval               |
+| Performance | Optimized retrieval and reduced hallucination rates   |
+| Security    | Prompt guardrails and controlled tool routing         |
+| Impact      | Demonstrated production-ready Agentic AI architecture |
+| Repository  | Add Repository URL                                    |
+
+### Highlights
+
+* Architected a production-ready RAG system using semantic retrieval pipelines.
+* Built autonomous workflows using LangGraph for intelligent task execution.
+* Implemented stateful conversation memory mechanisms.
+* Developed FastAPI services for scalable deployment.
+* Established evaluation pipelines for retrieval quality assessment.
+
+</details>
+
+---
+
+<details>
+<summary><b>RankLocal – NLP & Generative AI Platform</b></summary>
+
+<br/>
+
+AI-powered local business intelligence platform leveraging open-weight LLMs and retrieval systems to generate actionable insights.
+
+| Category    | Details                                           |
+| ----------- | ------------------------------------------------- |
+| Stack       | Python, LangChain, Llama 3, FastAPI, Docker       |
+| Scale       | Thousands of business review records              |
+| Performance | Low-latency semantic retrieval pipelines          |
+| Security    | Input validation and structured API contracts     |
+| Impact      | AI-assisted SEO and review intelligence workflows |
+| Repository  | Add Repository URL                                |
+
+### Highlights
+
+* Designed modular RAG architecture using open-source LLMs.
+* Built evaluation systems for consistency and latency measurement.
+* Implemented sentiment classification workflows.
+* Exposed model capabilities through FastAPI endpoints.
+* Enabled AI-driven decision support for local businesses.
+
+</details>
+
+---
+
+<details>
+<summary><b>Document Forgery Detection Using Deep Learning</b></summary>
+
+<br/>
+
+Published research project focusing on signature verification and document classification using deep learning techniques.
+
+| Category    | Details                                                                       |
+| ----------- | ----------------------------------------------------------------------------- |
+| Stack       | PyTorch, CNN, OCR, FastAPI, Docker                                            |
+| Scale       | 1,000+ structured document samples                                            |
+| Performance | 92% signature verification accuracy                                           |
+| Security    | Controlled inference pipelines                                                |
+| Impact      | Peer-reviewed publication in IJIRT                                            |
+| Repository  | https://github.com/Prathamesh-Rathi/Signature_Forgery_and_File_classification |
+
+### Highlights
+
+* Developed Siamese-inspired CNN architectures for signature verification.
+* Engineered OCR preprocessing pipelines for Aadhaar and PAN classification.
+* Managed complete model lifecycle from experimentation to deployment.
+* Containerized inference workflows using Docker.
+* Published findings documenting experimentation methodology.
+
+</details>
+
+---
